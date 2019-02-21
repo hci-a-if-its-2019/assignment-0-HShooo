@@ -18,8 +18,9 @@ Well, I'm a writer (especially a fanfiction one) so i know a few web to reading.
 <h2>Solution</h2>
 So, the first one we need sorting, not tag. The second and third one, if wattpad still using the tags, at least make it two like in AO3 one which can using two tags or more. 
   
-<h2>y Latest Problem with SPOJ</h2><br>
-![SPOJ](Screenshot at 2019-02-21 12-47-47.png)
+<h2>My Latest Problem with SPOJ</h2><br>
+![screenshot at 2019-02-21 12-59-44](https://user-images.githubusercontent.com/39649971/53147098-194a8400-35d9-11e9-9b11-f82925ebbab4.png)
+<br>
 Well, it's my problem this week with SPOJ. I felt very annoyed today because i can't signed in because i forgot the password. And i felt annoyed to Myself and SPOJ too because why am i forgotten my usenames and why SPOJ requires an username to recover my account too? in many websites you just using email only if the username os forgotten. but not in SPOJ<br>
 
 <h2>Solution</h2><br>
